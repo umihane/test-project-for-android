@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">テストAndroidアプリ</string>
+    <string name="button_send">送信する</string>
+    <string name="edit_message">メッセージを入力</string>
+</resources>
